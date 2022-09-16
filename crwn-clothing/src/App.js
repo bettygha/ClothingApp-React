@@ -4,13 +4,7 @@ import Home from './routes/home/home.component';
 import Authentication from './routes/authentication/authentication.component';
 // import CategoryItem from './component/category-item/category-item.component';
 
-
-const Shop = () => {
-  return (
-    <h1> I am the shope page</h1>
-  )
-  
-};
+import Shop from './routes/shop/shop.component';
 
 const App = () => {
   return (
